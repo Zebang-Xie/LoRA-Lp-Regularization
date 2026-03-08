@@ -1,4 +1,4 @@
-# DSA4288M
+# Automatic Rank Determination for Low-Rank Adaptation via Structured L_p Regularization
 Just done the initial experiment which verify the algorithm can induce sparsity to the LoRA BA matrix
 
 
